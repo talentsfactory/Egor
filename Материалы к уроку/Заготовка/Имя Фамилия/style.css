@@ -1,0 +1,42 @@
+h1 {
+    color: #34547A;
+    font-size: 48px;
+}
+
+p {
+    color: #000000;
+    font-size: 16px;
+}
+
+header {
+    width: 100%;
+    background: #EEEFF1;
+    display: flex;
+}
+
+body {
+    width: 100%;
+    background: #EEEFF1;
+}
+
+.header_logo {
+    font-family: Revalia;
+    font-style: normal;
+    font-weight: normal;
+    cursor: pointer;
+    margin-left: 402px;
+    margin-top: 35px;
+}
+
+.header_menu {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    cursor: pointer;
+    margin-left: 398px;
+    margin-top: 79px;
+}
+
+a {
+    padding-left: 42px;
+}
